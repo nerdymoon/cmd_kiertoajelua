@@ -15,6 +15,7 @@ public class Kertoma {
                 kertoma = kertoma * i;
             }
             System.out.println("Kertoma on " + kertoma);
+	    System.out.println("Testaillaan gittia.");
         }
     }
 }
